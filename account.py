@@ -3,7 +3,7 @@ Online Banking System - Account Management Module
 """
 
 def account_status():
-    status = "Active"
+    status = "Suspended"
     print("Account Status:", status)
 
 def account_details(account_number="ACC1001", account_holder="Pranay", balance=5000.0):
